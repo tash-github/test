@@ -5,6 +5,6 @@ i = gets.to_i
 j = rand(3)
 
 if i == j
-  puts "aiko"
+  puts "aiko."
 end
-puts "win or lose" if i != j
+puts "win or lose." if i != j
